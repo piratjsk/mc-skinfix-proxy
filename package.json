@@ -1,0 +1,13 @@
+{
+  "name": "mc-skinfix-proxy",
+  "version": "0.0.1",
+  "author": "piratjsk",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
